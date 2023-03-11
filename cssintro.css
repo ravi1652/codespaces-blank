@@ -1,0 +1,42 @@
+/* 1.ELement Selector */
+/* span{
+    background-color: black;
+    color: pink;
+}
+p{
+    background-color: yellow;
+    color: white;
+} */
+/* 2.selector List */
+/* span,p{
+    color: yellow;
+    background-color: black;
+} */
+/*3.UNIVERSAL SELECTOR */
+/* span{
+    color: yellow;
+    border: 2px dotted red;
+} */
+/* 4.ID SELECTOR */
+/* #h2head{
+    color: rgb(0, 255, 51);
+    border: 2px dotted rgb(4, 0, 255);
+    background-color: black;
+
+} */
+/* 5.Class  selector */
+  /* .h2ClassSelector{
+    color: pink;
+    background-color: black;
+    border: 2px dashed rgb(red, green, blue);
+  } */
+  /* units in CSS
+  >>>px,%,vh,vw,rem,em */
+  /* 6.Descent selector */
+  /* a,h1{
+    color: aqua;
+    background-color: black;
+    border: 2%;
+    border-radius: 24%;
+  } */
+  
